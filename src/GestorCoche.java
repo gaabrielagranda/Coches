@@ -18,4 +18,12 @@ public class GestorCoche {
         }
         return cochesNoBorrados;
     }
+
+    public ArrayList<coche> busqueda() {
+        ArrayList<coche> busquedacolor();
+        for (coche  coche: coches){
+
+        }
+
+    }
 }
